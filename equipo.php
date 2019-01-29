@@ -175,7 +175,7 @@ function verimg(archivo)
     </div>
     */?>
 
-
+</div>
 
 <?php footerprin() ?>
 
@@ -191,6 +191,8 @@ function verimg(archivo)
   <div id="divimagen"></div>
   </p>
 </div>
+
+
 
 </html>
 

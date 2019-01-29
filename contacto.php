@@ -50,7 +50,7 @@ include ("menu.php"); ?>
 
   <div class="col-lg-5 col-sm-12">
 
-      <p class="b-normal-big">Encuéntranos</p>
+      <p class="b-normal-big"><b>Encuéntranos</b></p>
 
       <div class="b-mapa">
 
@@ -66,17 +66,24 @@ include ("menu.php"); ?>
 
   <div class="col-lg-7 col-sm-12">
 
-    <p class="b-normal-big"><b>Déjanos tu mensaje</b></p>
-
     <p class="b-normal">Si tienes algunos de estos padecimientos, no dudes en contactarnos. Estamos a tus órdenes en:</p>
 
+    <p class="b-normal-big">Polanco</p>
+    <p class="b-normal">info@vermexico.com.mx</p>
+
+    <p class="b-normal-big">Calzada de Tlalpan</p>
+    <p class="b-normal">info@vermexico.com.mx</p>
+
+    <p class="b-normal-big">El Molinito</p>
+    <p class="b-normal">info@vermexico.com.mx</p>
+
+    <p class="b-normal-big">Lomas Verdes</p>
     <p class="b-normal">Av. el Olivar No.140 Col. El Olivar, Naucalpan de Juárez, Edo. de México</p>
+    <p class="b-normal">Tel. 7594 9534</p>
+    <p class="b-normal">info@vermexico.com.mx</p>
 
-    <p class="b-normal">Llámanos al Tel. 7594 9534</p>
-
-    <p class="b-normal">Escríbenos a info@vermexico.com.mx</p>
-
-
+    <br>
+    <p class="b-normal-big"><b>Déjanos tu mensaje</b></p>
 
     <form id="register" method="post" action="">
 
@@ -146,15 +153,7 @@ include ("menu.php"); ?>
 
 </div>  <!--end div container -->
 <br>
-<div class="container">
-  <p class="b-normal-big" style="text-align: center;"><b>Sucursales</b></p>
-</div>
-<div class="container">
-  <p class="b-normal" style="text-align: center;">Polanco</p>
-  <p class="b-normal" style="text-align: center;">Calzada de Tlalpan</p>
-  <p class="b-normal" style="text-align: center;">El Molinito</p>
-  <p class="b-normal" style="text-align: center;">Lomas Verdes</p>
-</div>
+
 
 <?php footerprin() ?>
 
