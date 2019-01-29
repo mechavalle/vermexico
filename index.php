@@ -107,7 +107,7 @@ include ("menu.php"); ?>
 			   <p>Expertos en crear soluciones para los diferentes tipos de Queratocono e irregularidades en cornea.</p>
 		  </div>
           <a href="casosdeexito.php"><div class="col-lg-3 col-xs-12 bloc-blue" id="show2">
-            <div class="icon-dif col-lg-3 col-lg-push-4 col-xs-3 col-xs-push-4"><img src="images/exito.png"></div>
+            <div class="col-lg-4 col-lg-push-4 col-xs-4 col-xs-push-4"><img src="images/exito.png"></div>
             <div class="row"></div>
             <div class="txt-icon col-lg-10 col-lg-push-1"><p>Casos de Éxito</p></div>
           </a></div>
@@ -117,7 +117,7 @@ include ("menu.php"); ?>
 			   <p>Casos de Éxito ejemplo</p>
 		  </div>
           <a href="profesionales.php"><div class="col-lg-3 col-xs-12 bloc-blue" id="show3">
-            <div class="icon-dif col-lg-3 col-lg-push-4 col-xs-3 col-xs-push-4"><img src="images/experiencia.png"></div>
+            <div class="col-lg-4 col-lg-push-4 col-xs-4 col-xs-push-4"><img src="images/experiencia.png"></div>
             <div class="row"></div>
             <div class="txt-icon col-lg-10 col-lg-push-1"><p>Conozca más de nuestra experiencia</p></div>
           </a></div>
@@ -183,11 +183,11 @@ $(document).ready(function(){
 
             <!-- End Item -->
 
-            <!-- Item -->
+            <!-- Item 
 
             <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/duette.jpg" alt="Image" class="grayscale img-client"></a> </div>
 
-            <!-- End Item -->
+             End Item -->
 
 
 
@@ -199,61 +199,61 @@ $(document).ready(function(){
 
 
 
-            <!-- Item -->
+            <!-- Item 
 
-            <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/msd.jpg" alt="Image" class="grayscale img-client"></a> </div>
+            <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/msd.jpg" alt="Image" class="grayscale img-client"></a> </div>//?>
 
-            <!-- End Item -->
+            End Item -->
 
 
 
-            <!-- Item -->
+            <!-- Item 
 
             <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/onefit.jpg" alt="Image" class="grayscale img-client"></a> </div>
 
-            <!-- End Item -->
+            End Item -->
 
 
 
-            <!-- Item -->
+            <!-- Item 
 
             <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/ultra_health.jpg" alt="Image" class="grayscale img-client"></a> </div>
 
-            <!-- End Item -->
+            End Item -->
 
 
 
-            <!-- Item -->
+            <!-- Item 
 
-            <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/avizor.jpg" alt="Image" class="grayscale img-client"></a> </div>
+            <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/avizor.jpg" alt="Image" class="grayscale img-client"></a> </div>?>
 
-            <!-- End Item -->
+            End Item -->
 
 
 
-            <!-- Item -->
+            <!-- Item 
 
             <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/vb.jpg" alt="Image" class="grayscale img-client"></a> </div>
 
-            <!-- End Item -->
+            End Item -->
 
-            <!-- Item -->
+            <!-- Item 
 
             <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/x-cel.png" alt="Image" class="grayscale img-client"></a> </div>
 
-            <!-- End Item -->
+            End Item -->
 
-            <!-- Item -->
+            <!-- Item 
 
             <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/opharm_verde.jpg" alt="Image" class="grayscale img-client"></a> </div>
 
-            <!-- End Item -->
+            End Item -->
 
-            <!-- Item -->
+            <!-- Item 
 
             <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/ophfreeday.png" alt="Image" class="grayscale img-client"></a> </div>
 
-            <!-- End Item -->
+            End Item -->
 
             <!-- Item -->
             <div class="item wow zoomIn"> <a href="#"><img src="images/slider_clients/INF-CONIC-01.png" alt="Image" class="grayscale img-client"></a> </div>

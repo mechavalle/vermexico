@@ -61,6 +61,7 @@ include ("footer.php");
   <div class="col-lg-12 espacio-div"></div>
 
   <!--seccion de videos -->
+  <?/*
   <div class="row section-videos">
     <div class="col-lg-6 col-sm-12">
       <div class="b-video">
@@ -89,26 +90,28 @@ include ("footer.php");
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/rOTLhS8xb_I" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
-  </div><!--end div section-videos -->
+  </div>
+  */?>
+  <!--end div section-videos -->
 
 
   <!--seccion de videos -->
   <div class="row section-videos">
     <div class="col-lg-4 col-sm-12">
       <div class="b-video">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/muq5d-8jcQw" frameborder="0" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/ihJQT5l08e8" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
 
     <div class="col-lg-4 col-sm-12">
       <div class="b-video">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/IIq-_Ya0mDg" frameborder="0" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/Kmc2rFOX5NQ" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
 
     <div class="col-lg-4 col-sm-12">
       <div class="b-video">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/ARi32f7CF3A" frameborder="0" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/rOTLhS8xb_I" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
   </div><!--end div section-videos -->

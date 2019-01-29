@@ -140,6 +140,7 @@ function verimg(archivo)
 
   <div class="row espacio-media-query" style="height: 50px;"></div>
 
+  <?/*
   <div class="col-lg-12 txt-ref">
 
      <p class="b-normal-big">Más de nuestros equipos:</p>
@@ -172,6 +173,7 @@ function verimg(archivo)
     
         </div>
     </div>
+    */?>
 
 
 

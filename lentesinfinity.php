@@ -12,6 +12,10 @@ include ("footer.php");
 
 <? headprin() ?>
 
+<style type="text/css">
+  .panel-default>.panel-heading { background-color: #0f9359; }
+</style>
+
 <!-- MENU WEB-->
 
 <? $mnu="servicios"; include ("menu.php"); ?>
@@ -74,43 +78,12 @@ include ("footer.php");
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-        Infinity RGP</a>
-      </h4>
-    </div>
-    <div id="collapse3" class="panel-collapse collapse">
-      <div class="panel-body">
-        <!--columna izquierda -->
-
-        <div class="row">
-          <div class="col-lg-4 col-sm-12 img-media-query">
-              <div class="b-img">
-                <img src="images/lentes/RIGIDOS.jpg" alt="">
-              </div>
-          </div>
-          <!--columna derecha -->
-
-          <div class="col-lg-8 col-sm-12">
-            <p class="b-normal-txt-img" style="height: auto;">
-
-              Las lentes semirrígidas o RPG (Rígida Gas Permeable), se indican para pacientes con astigmatismos muy altos que no pueden ser compensados con una lente blanda, así como en casos de irregularidades en la córnea. Estas irregularidades pueden producirse después de algunas cirugías o deberse a degeneraciones corneales como el queratocono.
-             
-            </p>
-
-          </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-        Lentes Esclerales Infinity AC</a>
+        Lentes Esclerales Infinity</a>
       </h4>
     </div>
     <div id="collapse4" class="panel-collapse collapse">
@@ -145,6 +118,16 @@ include ("footer.php");
               </ul>
              
             </p>
+            <br>
+            <p class="b-normal-txt-img" style="height: auto;">
+
+              Es nuestra línea de lentes esclerales orientada para ectasias corneales y patologías de superficie corneal que requieran protección y control de humectación.<br><br>
+              El sistema de lentes Infinity Conic fue desarrollado especialmente para adaptarse a las geometrías oculares mas complejas tanto de córnea como de esclera. Se diseña 100% por software de diseño CAD otorgando libertad para generar superficies asimétricas con elevaciones o depresiones sectorizadas que acompañen la anatomía ocular.<br><br>
+              Para los casos más complejos se procede al diseño sobre mapeo de elevación corneal y escleral asegurando un calce perfecto. <br><br>
+              El diseño Infinity Conic incluye también la posibilidad de corrección de presbicia mediante óptica multifocal. <br><br>
+              Beneficios : corrección de  visión a distancia,  cerca e intermedia .
+
+            </p>
 
           </div>
       </div>
@@ -175,11 +158,7 @@ include ("footer.php");
           <div class="col-lg-8 col-sm-12">
             <p class="b-normal-txt-img" style="height: auto;">
 
-              Es nuestra línea de lentes esclerales orientada para ectasias corneales y patologías de superficie corneal que requieran protección y control de humectación.<br><br>
-              El sistema de lentes Infinity Conic fue desarrollado especialmente para adaptarse a las geometrías oculares mas complejas tanto de córnea como de esclera. Se diseña 100% por software de diseño CAD otorgando libertad para generar superficies asimétricas con elevaciones o depresiones sectorizadas que acompañen la anatomía ocular.<br><br>
-              Para los casos más complejos se procede al diseño sobre mapeo de elevación corneal y escleral asegurando un calce perfecto. <br><br>
-              El diseño Infinity Conic incluye también la posibilidad de corrección de presbicia mediante óptica multifocal. <br><br>
-              Beneficios : corrección de  visión a distancia,  cerca e intermedia .
+              
              
             </p>
 
@@ -301,6 +280,38 @@ include ("footer.php");
               Otro de los beneficios es para los pacientes con escaso caudal de lágrima que no toleran lentes de contacto convencionales durante el día, con el sistema OrtoK está visto que se alcanza un excelente confort y no se padecen los problemas de falta de humectación durante el día. Este moldeo es temporario y reversible, por lo que si uno decide dejar de utilizar las lentes la córnea regresa a su forma original sin alteraciones.<br><br>
               Aplicado en niños, el tratamiento ortoqueratológico ha demostrado ser una de las opciones más precisas y confiables para reducir la magnitud de miopía que puede desarrollarse hasta en un 40%
            
+            </p>
+
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+         Infinity Evolution</a>
+      </h4>
+    </div>
+    <div id="collapse3" class="panel-collapse collapse">
+      <div class="panel-body">
+        <!--columna izquierda -->
+
+        <div class="row">
+          <div class="col-lg-4 col-sm-12 img-media-query">
+              <div class="b-img">
+                <img src="images/lentes/" alt="">
+              </div>
+          </div>
+          <!--columna derecha -->
+
+          <div class="col-lg-8 col-sm-12">
+            <p class="b-normal-txt-img" style="height: auto;">
+
+             
+             
             </p>
 
           </div>

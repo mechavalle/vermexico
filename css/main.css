@@ -6092,9 +6092,9 @@ a.play-bnt .fa.fa-play {
 
 .totop {
 
-	background: none repeat scroll 0 0 #ff9800;
+	background: none repeat scroll 0 0 #e21f23; /* anterior background: none repeat scroll 0 0 #ff9800;*/
 
-	border: 2px solid #ff9800;
+	 border: 2px solid #e21f23; /* anterior border: 2px solid #ff9800;*/
 
 	border-radius: 50px;
 
@@ -6990,7 +6990,7 @@ nav {
 
 .mtmegamenu a .title.title_font span {
 
-	color: #191DAD;
+	color: #0c6f4e; /* anterior color: #191DAD;*/
 
 	font-weight: normal;
 
@@ -13110,7 +13110,7 @@ ul.menu-items.col-md-2.col-sm-3.col-xs-12 {
 
     font-weight: normal;
 
-    background: #00b0ad;
+    background: #e21f23; /* anterior background: #00b0ad;*/
 
     padding: 3px;
 
@@ -13124,7 +13124,7 @@ ul.menu-items.col-md-2.col-sm-3.col-xs-12 {
 
     font-weight: normal;
 
-    background: #00b0ad;
+    background: #e21f23; /* anterior background: #00b0ad;*/
 
     padding: 3px;
 

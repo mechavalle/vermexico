@@ -145,8 +145,16 @@ include ("menu.php"); ?>
   </div>
 
 </div>  <!--end div container -->
-
-
+<br>
+<div class="container">
+  <p class="b-normal-big" style="text-align: center;""><b>Sucursales</b></p>
+</div>
+<div class="container">
+  <p class="b-normal" style="text-align: center;">Polanco</p>
+  <p class="b-normal" style="text-align: center;">Calzada de Tlalpan</p>
+  <p class="b-normal" style="text-align: center;">El Molinito</p>
+  <p class="b-normal" style="text-align: center;">Lomas Verdes</p>
+</div>
 
 <?php footerprin() ?>
 

@@ -11,7 +11,7 @@ function footerprin () {
         <div class="col-sm-4 col-xs-12 coppyright"><a href="#">© Copyright VER MÉXICO 2016</a></div>
         <div class="social col-sm-4 col-xs-12">
           <ul class="inline-mode">
-            <li class="social-network fb"><a title="Connect us on Facebook" target="_blank" href="https://www.facebook.com/Ver-M%C3%A9xico-352753525083299/?notif_t=fbpage_fan_invite&notif_id=1483645544972721"><i class="fa fa-facebook"></i></a></li>
+            <li class="social-network fb"><a title="Connect us on Facebook" target="_blank" href="https://www.facebook.com/VerMexico"><i class="fa fa-facebook"></i></a></li>
             <!--
             <li class="social-network tw"><a title="Connect us on Twitter" target="_blank" href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
             <li class="social-network linkedin"><a title="Connect us on Linkedin" target="_blank" href="https://www.pinterest.com/"><i class="fa fa-linkedin"></i></a></li>
