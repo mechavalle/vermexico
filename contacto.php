@@ -147,7 +147,7 @@ include ("menu.php"); ?>
 </div>  <!--end div container -->
 <br>
 <div class="container">
-  <p class="b-normal-big" style="text-align: center;""><b>Sucursales</b></p>
+  <p class="b-normal-big" style="text-align: center;"><b>Sucursales</b></p>
 </div>
 <div class="container">
   <p class="b-normal" style="text-align: center;">Polanco</p>
